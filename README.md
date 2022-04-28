@@ -1,4 +1,4 @@
-# PYTN_Prakerja_Moch-Hazmi-Cokro-M
+# PYTN_Prakerja_Moch Hazmi Cokro Mandiri
 PYTN_Prakerja_Mochammad Hazmi Cokro Mandiri
 
 Nama : Mochammad Hazmi Cokro Mandiri \
